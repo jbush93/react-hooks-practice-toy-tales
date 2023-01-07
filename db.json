@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "likes": 20
     },
     {
       "id": 2,
@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Jerry",
+      "image": "https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog1557403/Jerry_Maguire_SQ.jpg",
+      "likes": 7,
+      "id": 9
     }
   ]
 }
